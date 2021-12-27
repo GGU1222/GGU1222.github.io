@@ -3,12 +3,10 @@ title: "Title"
 excerpt: "excerpt"
 
 categories:
-  - category
+  - [category]
 
 tags:
   - [tag]
-
-toc: true
 
 date: 2021-12-27
 ---
